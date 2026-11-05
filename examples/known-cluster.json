@@ -1,0 +1,23 @@
+{
+  "action": "quote",
+  "need": "Compare provider quotations for 64 NVIDIA H100 SXM 80GB accelerators in the United States, with InfiniBand, for one month starting between January 4 and January 11, 2027.",
+  "specifications": {
+    "workload_kind": "KNOWN_SPEC",
+    "accelerator": "NVIDIA H100 SXM 80GB",
+    "accelerator_count": 64,
+    "proposal_source": "buyer_spec",
+    "region": "United States",
+    "residency_required": true,
+    "interconnect": "INFINIBAND",
+    "terms_to_quote": ["1_MONTH"],
+    "start_earliest": 20270104,
+    "start_latest": 20270111,
+    "commitment": "COMPARING_QUOTES",
+    "reply_email_included": true
+  },
+  "contact": {
+    "email": "replace-me@example.com",
+    "name": "Replace with the consenting buyer's name",
+    "organization": "Replace with the buyer's organization"
+  }
+}
